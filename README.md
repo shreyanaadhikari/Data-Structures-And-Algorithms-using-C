@@ -19,8 +19,7 @@ A collection of Data Structures and Algorithms programs implemented during my BS
 ## 🏫 Course Info
 - **Subject:** Data Structures and Algorithms
 - **College:** St. Xavier's College, Kathmandu
-- **Program:** BSc. CSIT — Tribhuvan University
 
 ## 👩‍💻 Author
-**Shreyana Adhikari** — BSc. CSIT Student  
+**Shreyana Adhikari**
 [GitHub](https://github.com/shreyanaadhikari)
