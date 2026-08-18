@@ -1,5 +1,5 @@
 # Data-Structures-And-Algorithms
-# 📊 DSA Files — BSc. CSIT
+# 📊 DSA Files
 
 A collection of Data Structures and Algorithms programs implemented during my BSc. CSIT coursework at St. Xavier's College, Kathmandu.
 
